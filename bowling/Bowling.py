@@ -1,3 +1,3 @@
 class Bowling:
-    def isAlive(self):
-        return False
+    def roll(self, pins):
+        None
